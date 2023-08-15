@@ -1,5 +1,12 @@
 {
   "dependencies": {
+    "com.tsu.scenemanager": {
+      "version": "https://github.com/aks024680/com.tsu.scenemanager.git",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "1a120ff874e20f34246a64ecd91c49a253c55606"
+    },
     "com.unity.2d.animation": {
       "version": "9.0.3",
       "depth": 1,
