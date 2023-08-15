@@ -6,7 +6,9 @@ namespace Leo
 {
     public class Menu : MonoBehaviour
     {
-        string name = "Game";
+
+        int id = 1;
+
     }
 
 }
